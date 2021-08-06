@@ -1,1 +1,1 @@
-webo: gunicorn apptadiavo:app
+web: gunicorn wsgi
